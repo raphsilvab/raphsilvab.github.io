@@ -1,1 +1,0 @@
-- [Code Style Guide](https://github.com/csshortcut/code-style-guide)
