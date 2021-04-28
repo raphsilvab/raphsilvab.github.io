@@ -1,0 +1,12 @@
+html {
+  color: red;
+}
+
+.paragraph {
+  color: inherit;
+  width: 200px;
+}
+
+.bold {
+  color: initial;
+}

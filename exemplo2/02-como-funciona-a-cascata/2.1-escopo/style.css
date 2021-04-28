@@ -1,0 +1,27 @@
+:root {
+  --cor1: #ff0090;
+  --cor2: #000;
+  --cor3: #660066;
+}
+
+.lv-1 {
+  height: 300px;
+  width: 300px;
+  background-color: var(--cor1);
+}
+
+.lv-2 {
+  height: 200px;
+  width: 200px;
+  background-color: var(--cor2);
+}
+
+.lv-3 {
+  height: 100px;
+  width: 100px;
+  background-color: var(--cor3);
+}
+
+.x .lv-3 {
+  --cor3: #ccc;
+}
